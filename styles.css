@@ -1,5 +1,10 @@
 /*  your css code here. If applicable */
-ul>li{
+nav{
+	background-color:#D3D3D3;
+	padding: 10px;
+}
+
+nav li{
 	display: inline;
 	margin-right:1rem;
 }
